@@ -11,6 +11,16 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^4.21.2"
-  }
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaysmart98/newAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaysmart98/newAPI/issues"
+  },
+  "homepage": "https://github.com/Jaysmart98/newAPI#readme"
 }
